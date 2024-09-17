@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=b6f6f7&height=120&text=Welcome%20to%20my%20page!&animation=fadeIn&fontColor=7f77ee&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=ddc9a6&height=120&text=Welcome%20to%20my%20page!&animation=fadeIn&fontColor=c49a27&fontSize=60" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 😎프론트엔드 개발자 박문균입니다. </h2>  
